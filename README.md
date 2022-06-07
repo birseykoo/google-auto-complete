@@ -46,4 +46,5 @@ python googleAutoComplete.py
 `xls` uzantılı dosya bulunduğunuz dizine kaydedilecektir.
 
 elinizde a'dan z'ye kadar googlen ilk önerdiği 10 anahtar kelime artık elinizde
+
 ![Anahtar Kelimeyi Girreceğiniz Alan](/images/2022-06-07234002.png)
